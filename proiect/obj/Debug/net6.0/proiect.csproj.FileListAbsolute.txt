@@ -1,0 +1,15 @@
+D:\Desktop\finalWorc\practica\proiect\bin\Debug\net6.0\proiect.exe
+D:\Desktop\finalWorc\practica\proiect\bin\Debug\net6.0\proiect.deps.json
+D:\Desktop\finalWorc\practica\proiect\bin\Debug\net6.0\proiect.runtimeconfig.json
+D:\Desktop\finalWorc\practica\proiect\bin\Debug\net6.0\proiect.dll
+D:\Desktop\finalWorc\practica\proiect\bin\Debug\net6.0\proiect.pdb
+D:\Desktop\finalWorc\practica\proiect\obj\Debug\net6.0\proiect.csproj.AssemblyReference.cache
+D:\Desktop\finalWorc\practica\proiect\obj\Debug\net6.0\proiect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\finalWorc\practica\proiect\obj\Debug\net6.0\proiect.AssemblyInfoInputs.cache
+D:\Desktop\finalWorc\practica\proiect\obj\Debug\net6.0\proiect.AssemblyInfo.cs
+D:\Desktop\finalWorc\practica\proiect\obj\Debug\net6.0\proiect.csproj.CoreCompileInputs.cache
+D:\Desktop\finalWorc\practica\proiect\obj\Debug\net6.0\proiect.dll
+D:\Desktop\finalWorc\practica\proiect\obj\Debug\net6.0\refint\proiect.dll
+D:\Desktop\finalWorc\practica\proiect\obj\Debug\net6.0\proiect.pdb
+D:\Desktop\finalWorc\practica\proiect\obj\Debug\net6.0\proiect.genruntimeconfig.cache
+D:\Desktop\finalWorc\practica\proiect\obj\Debug\net6.0\ref\proiect.dll
